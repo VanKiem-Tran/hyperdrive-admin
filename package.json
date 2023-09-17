@@ -61,6 +61,7 @@
   },
   "devDependencies": {
     "eslint": "8.42.0",
-    "eslint-config-next": "13.4.5"
+    "eslint-config-next": "13.4.5",
+    "faker": "^6.6.6"
   }
 }
